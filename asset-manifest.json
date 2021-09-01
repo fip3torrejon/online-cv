@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fip3torrejon/online-cv/static/css/main.95bb50d9.chunk.css",
+    "main.js": "/fip3torrejon/online-cv/static/js/main.5af305c9.chunk.js",
+    "main.js.map": "/fip3torrejon/online-cv/static/js/main.5af305c9.chunk.js.map",
+    "runtime-main.js": "/fip3torrejon/online-cv/static/js/runtime-main.a968eabc.js",
+    "runtime-main.js.map": "/fip3torrejon/online-cv/static/js/runtime-main.a968eabc.js.map",
+    "static/css/2.c490997a.chunk.css": "/fip3torrejon/online-cv/static/css/2.c490997a.chunk.css",
+    "static/js/2.7ac473f7.chunk.js": "/fip3torrejon/online-cv/static/js/2.7ac473f7.chunk.js",
+    "static/js/2.7ac473f7.chunk.js.map": "/fip3torrejon/online-cv/static/js/2.7ac473f7.chunk.js.map",
+    "index.html": "/fip3torrejon/online-cv/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/fip3torrejon/online-cv/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.95bb50d9.chunk.css.map": "/fip3torrejon/online-cv/static/css/main.95bb50d9.chunk.css.map",
+    "static/js/2.7ac473f7.chunk.js.LICENSE.txt": "/fip3torrejon/online-cv/static/js/2.7ac473f7.chunk.js.LICENSE.txt",
+    "static/media/logo_720.2a087637.png": "/fip3torrejon/online-cv/static/media/logo_720.2a087637.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a968eabc.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.7ac473f7.chunk.js",
+    "static/css/main.95bb50d9.chunk.css",
+    "static/js/main.5af305c9.chunk.js"
+  ]
+}
